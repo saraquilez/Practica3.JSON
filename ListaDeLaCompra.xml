@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermercados>
+    <Nombre>Lidl</Nombre>
+    <Direccion>C. Vía Carpetana, 145, 28047 Madrid, Madrid</Direccion>
+    <Geolocalización>
+        <latitud>40.2331</latitud>
+        <longitud>3.4429</longitud>
+    </Geolocalización>
+    <Telefono>900958311</Telefono>
+    <Horario>
+        <apertura>10:00h</apertura>
+        <cierre>22:00h</cierre>
+    </Horario>
+    <Secciones>
+        <Fruteria>
+            <Nombre>Mandarina</Nombre>
+            <Descripcion>Mandarinas 2 kg</Descripcion>
+            <Marca>Lidl</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-04-12</inicio>
+                <fin>2023-06-03</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>true</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>quilos</UnidadMedida>
+            <Precio>1.59</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>true</Habitual>
+            <Adquirido>true</Adquirido>
+        </Fruteria>
+        <Otras>
+            <Nombre>Yogur Natural</Nombre>
+            <Descripcion>Yogur natural edulcorado, bífidus 0%, 4 x 125 g</Descripcion>
+            <Marca>Milbona</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-04-22</inicio>
+                <fin>2023-05-11</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>4</Unidades>
+            <UnidadMedida>gramos</UnidadMedida>
+            <Precio>0.92</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>true</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+        <Otras>
+            <Nombre>Pan de Molde Integral</Nombre>
+            <Descripcion>Pan de Molde Integral de trigo sin corteza</Descripcion>
+            <Marca>La Cestera</Marca>
+            <Oferta>true</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-04-12</inicio>
+                <fin>2023-06-27</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>gramos</UnidadMedida>
+            <Precio>0.85</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>false</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+        <Otras>
+            <Nombre>Agua mineral natural</Nombre>
+            <Descripcion>Garrafa agua mineral natural 5l</Descripcion>
+            <Marca>Fonteide</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-04-08</inicio>
+                <fin>2024-03-12</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>litros</UnidadMedida>
+            <Precio>1.07</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>false</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+    </Secciones>
+</supermercados>
+<supermercados>
+    <Nombre>Carrefour</Nombre>
+    <Direccion>Ctra. Burgos A1, km 14, 28108 Alcobendas, Madrid</Direccion>
+    <Geolocalización>
+        <latitud>40.3136</latitud>
+        <longitud>3.396</longitud>
+    </Geolocalización>
+    <Telefono>914908900</Telefono>
+    <Horario>
+        <apertura>09:00h</apertura>
+        <cierre>22:00h</cierre>
+    </Horario>
+    <Secciones>
+        <Fruteria>
+            <Nombre>Manzana Fuji</Nombre>
+            <Descripcion>Manzana Fuji a granel 1 kg</Descripcion>
+            <Marca>Carrefour</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-02-15</inicio>
+                <fin>2023-08-21</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>true</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>quilos</UnidadMedida>
+            <Precio>2.19</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>true</Habitual>
+            <Adquirido>true</Adquirido>
+        </Fruteria>
+        <Otras>
+            <Nombre>Aceite de oliva</Nombre>
+            <Descripcion>Garrafa Aceite oliva Virgen 5l</Descripcion>
+            <Marca>Carbonell</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-02-10</inicio>
+                <fin>2026-12-23</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>litros</UnidadMedida>
+            <Precio>25.95</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>false</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+        <Otras>
+            <Nombre>Sardinas en aceite</Nombre>
+            <Descripcion>Sardinas en aceite de oliva Bajo en sal</Descripcion>
+            <Marca>Calvo</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-04-25</inicio>
+                <fin>2026-09-21</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>gramos</UnidadMedida>
+            <Precio>1.79</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>true</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+        <Otras>
+            <Nombre>Queso semicurado</Nombre>
+            <Descripcion>Queso mezcla semicurado mini</Descripcion>
+            <Marca>Gran Capitán</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-01-02</inicio>
+                <fin>2023-11-29</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>gramos</UnidadMedida>
+            <Precio>17.75</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>true</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+    </Secciones>
+</supermercados>
+<supermercados>
+    <Nombre>Mercadona</Nombre>
+    <Direccion>C. de Arrastaria, s/n, 28022 Madrid, Madrid</Direccion>
+    <Geolocalización>
+        <latitud>40.2648</latitud>
+        <longitud>3.3513</longitud>
+    </Geolocalización>
+    <Telefono>917473925</Telefono>
+    <Horario>
+        <apertura>10:00h</apertura>
+        <cierre>22:00h</cierre>
+    </Horario>
+    <Secciones>
+        <Fruteria>
+            <Nombre>Banana</Nombre>
+            <Descripcion>Banana</Descripcion>
+            <Marca>Hacendado</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-02-24</inicio>
+                <fin>2023-05-21</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>true</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>quilos</UnidadMedida>
+            <Precio>1.89</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>true</Habitual>
+            <Adquirido>true</Adquirido>
+        </Fruteria>
+        <Otras>
+            <Nombre>Néctar Pomelo</Nombre>
+            <Descripcion>Néctar Don Simon Pomelo (1 L) </Descripcion>
+            <Marca>Don Simon</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-03-03</inicio>
+                <fin>2024-03-15</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>litros</UnidadMedida>
+            <Precio>1.25</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>true</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+        <Otras>
+            <Nombre>Tortilla de patata y cebolla</Nombre>
+            <Descripcion>Tortilla fresca de patata y cebolla 600 g</Descripcion>
+            <Marca>Hacendado</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-04-16</inicio>
+                <fin>2023-07-05</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>gramos</UnidadMedida>
+            <Precio>1.75</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>true</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+        <Otras>
+            <Nombre>Cápsulas de café</Nombre>
+            <Descripcion>Cápsulas de café compatibles Nespresso</Descripcion>
+            <Marca>Hacendado</Marca>
+            <Oferta>false</Oferta>
+            <Periodo_vigencia>
+                <inicio>2023-03-24</inicio>
+                <fin>2027-06-21</fin>
+            </Periodo_vigencia>
+            <origen>España</origen>
+            <perecedero>false</perecedero>
+            <Unidades>1</Unidades>
+            <UnidadMedida>gramos</UnidadMedida>
+            <Precio>4.16</Precio>
+            <Moneda>€</Moneda>
+            <Habitual>false</Habitual>
+            <Adquirido>true</Adquirido>
+        </Otras>
+    </Secciones>
+</supermercados>

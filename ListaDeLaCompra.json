@@ -1,0 +1,269 @@
+{
+    "supermercados": [
+
+      {
+        "Nombre": "Lidl",
+        "Direccion": "C. Vía Carpetana, 145, 28047 Madrid, Madrid",
+        "Geolocalización":{
+          "latitud": 40.2331,
+          "longitud": 3.4429   },
+        "Telefono": 900958311,
+        "Horario": {
+          "apertura": "10:00h",
+          "cierre": "22:00h"
+        },
+        "Secciones":{
+            "Fruteria":[{
+              "Nombre": "Mandarina",
+              "Descripcion":"Mandarinas 2 kg",
+              "Marca": "Lidl",
+              "Oferta": false,
+              "Periodo_vigencia": {
+                "inicio": "2023-04-12",
+                "fin": "2023-06-03"
+              },
+              "origen": "España",
+              "perecedero": true,
+              "Unidades": 1,
+              "UnidadMedida": "quilos",
+              "Precio": 1.59,
+              "Moneda": "€",
+              "Habitual":true,
+              "Adquirido": true
+              }],
+            "Otras": [
+            {
+              "Nombre": "Yogur Natural",
+              "Descripcion":"Yogur natural edulcorado, bífidus 0%, 4 x 125 g",
+              "Marca": "Milbona",
+              "Oferta": false,
+              "Periodo_vigencia": {
+                "inicio": "2023-04-22",
+                "fin": "2023-05-11"
+              },
+              "origen": "España",
+              "perecedero": false,
+              "Unidades": 4,
+              "UnidadMedida": "gramos",
+              "Precio": 0.92,
+              "Moneda": "€",
+              "Habitual":true,
+              "Adquirido": true
+            },
+            {
+              "Nombre": "Pan de Molde Integral",
+              "Descripcion":"Pan de Molde Integral de trigo sin corteza",
+              "Marca": "La Cestera",
+              "Oferta": true,
+              "Periodo_vigencia": {
+                "inicio": "2023-04-12",
+                "fin": "2023-06-27"
+              },
+              "origen": "España",
+              "perecedero": false,
+              "Unidades": 1,
+              "UnidadMedida": "gramos",
+              "Precio": 0.85,
+              "Moneda": "€",
+              "Habitual":false,
+              "Adquirido": true
+            },
+            {
+              "Nombre": "Agua mineral natural",
+              "Descripcion":"Garrafa agua mineral natural 5l",
+              "Marca": "Fonteide",
+              "Oferta": false,
+              "Periodo_vigencia": {
+                "inicio": "2023-04-08",
+                "fin": "2024-03-12"
+              },
+              "origen": "España",
+              "perecedero": false,
+              "Unidades": 1,
+              "UnidadMedida": "litros",
+              "Precio": 1.07,
+              "Moneda": "€",
+              "Habitual":false,
+              "Adquirido": true
+            }
+          ]
+      }
+  },
+      {
+        "Nombre": "Carrefour",
+        "Direccion": "Ctra. Burgos A1, km 14, 28108 Alcobendas, Madrid",
+        "Geolocalización":{
+          "latitud": 40.3136,
+          "longitud": 3.3960   },
+        "Telefono": 914908900,
+        "Horario": {
+          "apertura": "09:00h",
+          "cierre": "22:00h"
+        },
+        "Secciones":{
+          "Fruteria":[{
+            "Nombre": "Manzana Fuji",
+            "Descripcion":"Manzana Fuji a granel 1 kg",
+            "Marca": "Carrefour",
+            "Oferta": false,
+            "Periodo_vigencia": {
+              "inicio": "2023-02-15",
+              "fin": "2023-08-21"
+            },
+            "origen": "España",
+            "perecedero": true,
+            "Unidades": 1,
+            "UnidadMedida": "quilos",
+            "Precio": 2.19,
+            "Moneda": "€",
+            "Habitual":true,
+            "Adquirido": true
+            }],
+          "Otras": [
+          {
+            "Nombre": "Aceite de oliva",
+            "Descripcion":"Garrafa Aceite oliva Virgen 5l",
+            "Marca": "Carbonell",
+            "Oferta": false,
+            "Periodo_vigencia": {
+              "inicio": "2023-02-10",
+              "fin": "2026-12-23"
+            },
+            "origen": "España",
+            "perecedero": false,
+            "Unidades": 1,
+            "UnidadMedida": "litros",
+            "Precio": 25.95,
+            "Moneda": "€",
+            "Habitual":false,
+            "Adquirido": true
+          },
+          {
+            "Nombre": "Sardinas en aceite",
+            "Descripcion":"Sardinas en aceite de oliva Bajo en sal",
+            "Marca": "Calvo",
+            "Oferta": false,
+            "Periodo_vigencia": {
+              "inicio": "2023-04-25",
+              "fin": "2026-09-21"
+            },
+            "origen": "España",
+            "perecedero": false,
+            "Unidades": 1,
+            "UnidadMedida": "gramos",
+            "Precio": 1.79,
+            "Moneda": "€",
+            "Habitual":true,
+            "Adquirido": true
+          },
+          {
+            "Nombre": "Queso semicurado",
+            "Descripcion":"Queso mezcla semicurado mini",
+            "Marca": "Gran Capitán",
+            "Oferta": false,
+            "Periodo_vigencia": {
+              "inicio": "2023-01-02",
+              "fin": "2023-11-29"
+            },
+            "origen": "España",
+            "perecedero": false,
+            "Unidades": 1,
+            "UnidadMedida": "gramos",
+            "Precio": 17.75,
+            "Moneda": "€",
+            "Habitual":true,
+            "Adquirido": true
+          }
+        ]
+    }
+},
+      {
+        "Nombre": "Mercadona",
+        "Direccion": "C. de Arrastaria, s/n, 28022 Madrid, Madrid",
+        "Geolocalización":{
+          "latitud": 40.2648,
+          "longitud": 3.3513   },
+        "Telefono": 917473925,
+        "Horario": {
+          "apertura": "10:00h",
+          "cierre": "22:00h"
+        },
+        "Secciones":{
+          "Fruteria":[{
+            "Nombre": "Banana",
+            "Descripcion":"Banana",
+            "Marca": "Hacendado",
+            "Oferta": false,
+            "Periodo_vigencia": {
+              "inicio": "2023-02-24",
+              "fin": "2023-05-21"
+            },
+            "origen": "España",
+            "perecedero": true,
+            "Unidades": 1,
+            "UnidadMedida": "quilos",
+            "Precio": 1.89,
+            "Moneda": "€",
+            "Habitual":true,
+            "Adquirido": true
+            }],
+          "Otras": [
+          {
+            "Nombre": "Néctar Pomelo",
+            "Descripcion":"Néctar Don Simon Pomelo (1 L) ",
+            "Marca": "Don Simon",
+            "Oferta": false,
+            "Periodo_vigencia": {
+              "inicio": "2023-03-03",
+              "fin": "2024-03-15"
+            },
+            "origen": "España",
+            "perecedero": false,
+            "Unidades": 1,
+            "UnidadMedida": "litros",
+            "Precio": 1.25,
+            "Moneda": "€",
+            "Habitual":true,
+            "Adquirido": true
+          },
+          {
+            "Nombre": "Tortilla de patata y cebolla",
+            "Descripcion":"Tortilla fresca de patata y cebolla 600 g",
+            "Marca": "Hacendado",
+            "Oferta": false,
+            "Periodo_vigencia": {
+              "inicio": "2023-04-16",
+              "fin": "2023-07-05"
+            },
+            "origen": "España",
+            "perecedero": false,
+            "Unidades": 1,
+            "UnidadMedida": "gramos",
+            "Precio": 1.75,
+            "Moneda": "€",
+            "Habitual":true,
+            "Adquirido": true
+          },
+          {
+            "Nombre": "Cápsulas de café",
+            "Descripcion":"Cápsulas de café compatibles Nespresso",
+            "Marca": "Hacendado",
+            "Oferta": false,
+            "Periodo_vigencia": {
+              "inicio": "2023-03-24",
+              "fin": "2027-06-21"
+            },
+            "origen": "España",
+            "perecedero": false,
+            "Unidades": 1,
+            "UnidadMedida": "gramos",
+            "Precio": 4.16,
+            "Moneda": "€",
+            "Habitual":false,
+            "Adquirido": true
+          }
+        ]
+    }
+}
+]
+}
